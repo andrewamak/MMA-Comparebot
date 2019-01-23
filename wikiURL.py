@@ -8,6 +8,7 @@ def wikiURL(userinput):
     return search_url
 
 
+
 def fighterName(userinput):
     userinput = userinput.strip()
     userinput = userinput.title()
