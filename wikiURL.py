@@ -1,3 +1,5 @@
+
+#takes the fighter name and returns a usable wikipedia URL
 def wikiURL(userinput):
     userinput = userinput.strip()
     userinput = userinput.title()
